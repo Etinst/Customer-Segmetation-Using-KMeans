@@ -1,0 +1,4 @@
+├── Mall_Customers.csv          # Dataset (from Kaggle)
+├── customer_segmentation.ipynb # Jupyter Notebook for ML analysis
+├── visual_dashboard.py         # Streamlit app for visualization
+├── README.md                   # Project documentation
