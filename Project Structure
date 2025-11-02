@@ -1,6 +1,6 @@
 ├── customer_segmentation.ipynb                                    # Jupyter Notebook for ML analysis
 ├── Mall Customer Segmentation Using Kmeans.docx                   # Dataset Documentation
 ├── Mall_Customers.csv                                             # Dataset (from Kaggle)
-├── visual_dashboard.py                                            # Streamlit app for visualization
-├── README.md                                                      # Project documentation
 ├── Data Structure file                                            # This file
+├── README.md                                                      # Project documentation
+├── app.py                                                         # Streamlit app for visualization
